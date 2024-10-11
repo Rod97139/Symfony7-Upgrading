@@ -25,4 +25,25 @@ return [
     '@hotwired/turbo' => [
         'version' => '7.3.0',
     ],
+    'bootstrap' => [
+        'version' => '5.1.3',
+    ],
+    '@popperjs/core' => [
+        'version' => '2.11.8',
+    ],
+    'bootstrap/dist/css/bootstrap.min.css' => [
+        'version' => '5.1.3',
+        'type' => 'css',
+    ],
+    '@fortawesome/fontawesome-free/css/all.css' => [
+        'version' => '6.6.0',
+        'type' => 'css',
+    ],
+    '@fontsource-variable/roboto-condensed/index.min.css' => [
+        'version' => '5.1.0',
+        'type' => 'css',
+    ],
+    'axios' => [
+        'version' => '1.7.7',
+    ],
 ];
